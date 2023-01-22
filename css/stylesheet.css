@@ -107,6 +107,10 @@ body {
 	line-height: 2em;
 }
 
+#email {
+	padding-left: 0.7em;
+}
+
 #img1 {
 	background: url("../images/flowers.png") no-repeat top;
 	background-size: cover;
