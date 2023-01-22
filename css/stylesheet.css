@@ -1,0 +1,117 @@
+body {
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 16px;
+	padding: 0;
+	margin: 0;
+	background-color: black;
+	color: white;
+}
+
+#brief {
+	margin-top: 5em;
+}
+
+#name {
+	font-size: 25px;
+}
+
+.borderbottom {
+	border-bottom: 1px solid dimgray;
+}
+
+.paddingbottom-1 {
+	padding-bottom: 3em;
+}
+
+.paddingbottom-2 {
+	padding-bottom: 1.1em;
+}
+
+.marginbottom {
+	margin-bottom: 1.5em;
+}
+
+.pd-mg-1 {
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 0;
+}
+
+#personalsummary {
+	font-weight: bolder;
+}
+
+.headers {
+	margin-bottom: 1.4em;
+}
+
+.companyName {
+	margin-bottom:0.2em;
+}
+
+.pos-year-loc {
+	color: dimgray;
+	font-weight: bold;
+	margin-bottom: .5em;
+}
+
+.sectionlists {
+	list-style-type: none;
+	padding-left: 1px;
+	line-height: 220%;
+}
+
+.skillsetHeaders {
+	border-top: 1px solid dimgray;
+	width: 100%;
+	padding-top: 1.8em;
+	margin-top: 0.5em;
+	margin-bottom: 0.3em;
+}
+
+.qualifications {
+	margin-top: 9px;
+}
+
+.progress {
+	background: gray;
+	width: 100%;
+	position: relative;
+	left: 0px;
+	top: 7px;
+	height: 2.5px !important;
+
+}
+
+.bar {
+	height: 2px;
+	background-color: white;
+
+}
+
+#skillsdivision {
+	width: 32.5%;
+	margin-right: 0.8em;
+}
+
+#proglangdivision {
+	width: 32%;
+	margin-right: 0.8em;
+}
+
+#contact {
+	margin-top: 0.5em;
+}
+
+#skills {
+	line-height: 2em;
+}
+
+#img1 {
+	background: url("../images/flowers.png") no-repeat top;
+	background-size: cover;
+  	min-height: 300px;
+  	margin-left: -5.5em;
+  	margin-right: -5.5em;
+  	margin-top: 3em;
+}
